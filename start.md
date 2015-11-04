@@ -3,4 +3,4 @@ It's the beginning of the day you wake up to hear your alarm going off, your lat
 choose to be a good student and still go to school even though your late?
 
 [Go to school](school/Gotoschool.md)
-[Don't go to school](
+[Don't go to school](school/fallasleep.md)
