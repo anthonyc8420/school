@@ -5,6 +5,6 @@ or choose to be a good student and still go to school even though you're late!
 ---
 What do you do?
 ##[Go to school](Gotoschool.md)
-##[Stay home](stayhome.md)
+##[Stay home](continuesleeping.md)
 ---
 [Start over](start.md)
