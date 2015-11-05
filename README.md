@@ -6,8 +6,7 @@ and see what the outcome will be!
 
 Click [here](start.md) to begin!
 ---
-##Check out our portfolios
-
-###[Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11/)
-###[Roxanne Condello](https://sites.google.com/a/hstat.org/roxannec1086sep11/)
+##Check out our portfolios!
+-###[Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11/)
+-###[Roxanne Condello](https://sites.google.com/a/hstat.org/roxannec1086sep11/)
 
