@@ -4,7 +4,7 @@ and see what the outcome will be!
 ---
 [Map](https://docs.google.com/drawings/d/1IRpTWSD5gCvuBltylx0-xb9OzWeCbWMUb4TpDW35pv4)
 
-[Click here to begin](start.md)
+Click [here](start.md) to begin!
 ---
 ##Check out our portfolios
 
