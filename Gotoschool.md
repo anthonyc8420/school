@@ -1,6 +1,8 @@
-#Your Morning Adventure
-So, you choose to go to school late. You walk into your class late and everyone stares at you. The class is boring though.
-You have the choice of actually paying attention or using your phone. Which do you choose? 
-
-[the phone](school/Usephone.md)
-[pay attention](school/Payattention.md)
+# Your Morning Adventure 
+## You arrive at school and go to your class.
+---
+What do you do next?
+## [Take our your phone because you're bored](Usephone.md)
+## [Pay attention in class](Payattention.md)
+---
+[Start over](start.md)
