@@ -5,3 +5,8 @@ and see what the outcome will be!
 [Map](https://docs.google.com/drawings/d/1IRpTWSD5gCvuBltylx0-xb9OzWeCbWMUb4TpDW35pv4/edit)
 
 [Click here to begin](start.md)
+---
+##Check out our portfolios
+
+[Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11/)
+[Roxanne Condello](https://sites.google.com/a/hstat.org/roxannec1086sep11/)
