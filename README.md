@@ -6,6 +6,6 @@ You wake up late for school, and you don't know what to do. Choose what you woul
 Click [here](start.md) to begin!
 ---
 ##Check out our portfolios!
-[Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11/)
-[Roxanne Condello](https://sites.google.com/a/hstat.org/roxannec1086sep11/)
+* [Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11/)
+* [Roxanne Condello](https://sites.google.com/a/hstat.org/roxannec1086sep11/)
 
