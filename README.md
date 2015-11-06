@@ -1,6 +1,7 @@
 #Your Morning Adventure!
 
 ##You wake up late for school! What do you do?!
+![alarm](http://url/to/img.pnghttps://upload.wikimedia.org/wikipedia/commons/8/87/Digital-clock-radio-basic.jpg)
 
 ###[Map](https://docs.google.com/drawings/d/1IRpTWSD5gCvuBltylx0-xb9OzWeCbWMUb4TpDW35pv4)
 
