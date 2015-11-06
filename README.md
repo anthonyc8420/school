@@ -4,7 +4,7 @@
 
 ###[Map](https://docs.google.com/drawings/d/1IRpTWSD5gCvuBltylx0-xb9OzWeCbWMUb4TpDW35pv4)
 
-###Click [here](start.md) to begin!
+###Click [here](Choices/start.md) to begin!
 
 ###Check our our portfolios!
 * [Anthony Chen](https://sites.google.com/a/hstat.org/anthonyc8420sep11)
